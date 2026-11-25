@@ -1,0 +1,12 @@
+{
+  "threshold_m_s": 10.0,
+  "cut_mode": "all_inj_iter3",
+  "abs_rv_gate_m_s": 1000.0,
+  "n_mask_lines": 549,
+  "n_common_lines_rerun": 632,
+  "n_pass_delta10_all_inj": 631,
+  "delta_rms_m_s": 2.8510274961968456,
+  "mask_path": "/Users/ckilpatrick/test_data/multi_line_centroid_ccf/lte040.ccfopt.delta_cut10mps_all_inj.mas",
+  "examples_copy": "examples/data/masks/lte040.ccfopt.delta_cut10mps_all_inj.mas",
+  "notebook_out": "/Users/ckilpatrick/test_data/multi_line_centroid_ccf_delta10"
+}

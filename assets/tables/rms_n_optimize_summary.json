@@ -1,0 +1,89 @@
+{
+  "template": "lte040.0-4.5-0.0a+0.0.BT-Settl.spec.7.h5",
+  "parent_mask": "/Users/ckilpatrick/Dropbox/scripts/python/cursor/HISPEC_DRP/hispecdrp/data/masks/lte040.0-4.5-0.0a+0.0.BT-Settl.spec.7.delta.mas",
+  "inj_km_s": [
+    0.0,
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    7.0,
+    8.0,
+    9.0,
+    10.0
+  ],
+  "n_fine": 512,
+  "parent_n_lines": 6857,
+  "rezero_mask": "/Users/ckilpatrick/Dropbox/scripts/python/cursor/HISPEC_DRP/test_data/rms_n_optimize/lte040.parent_iter_rezero.mas",
+  "rezero_n_lines": 738,
+  "rezero_meta": {
+    "rezero_iters_used": 8,
+    "final_max_abs_rv_minus_center_m_s": 0.0009737532468175013,
+    "n_dropped_alias": 63,
+    "n_dropped_verify": 47,
+    "n_dropped_match": 6009,
+    "n_lines": 738
+  },
+  "baselines": {
+    "all_finite": {
+      "rms_m_s": 706.374786674668,
+      "rms_over_sqrt_n_m_s": 26.002015224425925,
+      "n": 738
+    },
+    "delta_cut_10": {
+      "rms_m_s": 2.8600336984154273,
+      "rms_over_sqrt_n_m_s": 0.12085848244413668,
+      "n": 560
+    },
+    "delta_cut_5": {
+      "rms_m_s": 1.557872236554556,
+      "rms_over_sqrt_n_m_s": 0.07848446943637562,
+      "n": 394
+    },
+    "delta_cut_20": {
+      "rms_m_s": 4.398511568792877,
+      "rms_over_sqrt_n_m_s": 0.16781368342508307,
+      "n": 687
+    }
+  },
+  "mlp": {
+    "hidden_layer_sizes": [
+      32,
+      16
+    ],
+    "n_train": 738,
+    "n_good_labels": 560,
+    "train_score": 0.7872628726287263,
+    "n_param": 897,
+    "success": false,
+    "fun": 0.45868157941609927
+  },
+  "best": {
+    "rms_over_sqrt_n_m_s": 0.06152791448721571,
+    "rms_m_s": 1.0221784854301774,
+    "n": 276,
+    "mlp_threshold": 0.05,
+    "delta_cut_m_s": 3.0,
+    "abs_rv_gate_m_s": 200.0,
+    "max_abs_bias0_m_s": 1.0
+  },
+  "n_gate_evals": 13680,
+  "best_gates_only": {
+    "rms_over_sqrt_n_m_s": 0.06152791448721571,
+    "rms_m_s": 1.0221784854301774,
+    "n": 276,
+    "delta_cut_m_s": 3.0,
+    "abs_rv_gate_m_s": 200.0,
+    "max_abs_bias0_m_s": 1.0
+  },
+  "optimized_mask": "test_data/rms_n_optimize/lte040.ccfopt.rms_n_optimized.mas",
+  "examples_mask": "examples/data/masks/lte040.ccfopt.rms_n_optimized.mas",
+  "optimized_n_lines": 276,
+  "floor": {
+    "n": 276,
+    "rms_m_s": 1.0221784854301774,
+    "rms_over_sqrt_n_m_s": 0.06152791448721571
+  }
+}
