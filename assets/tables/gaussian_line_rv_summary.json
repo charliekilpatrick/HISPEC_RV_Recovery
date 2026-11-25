@@ -1,0 +1,23 @@
+{
+  "order": 136,
+  "n_pix": 4096,
+  "lam_rest_um": 1.0808823529411764,
+  "pixel_dv_m_s": 538.3043489679694,
+  "depth": 0.6,
+  "sigma_v_m_s": 4000.0,
+  "spec_err": 1e-08,
+  "continuum_snr_per_pixel": 100000000.0,
+  "v_step_m_s": 1.0,
+  "v_half_window_m_s": 20000.0,
+  "mask_ccf_pixel_interp_order": 8,
+  "mask_ccf_resample": false,
+  "mask_ccf_fit_baseline_free": true,
+  "prior_offset_m_s": 0.0,
+  "n_injected": 41,
+  "injected_rv_min_m_s": -20000.0,
+  "injected_rv_max_m_s": 20000.0,
+  "injected_rv_step_m_s": 1000.0,
+  "max_abs_bias_m_s": 4.547473508864641e-13,
+  "rms_bias_m_s": 9.400763606316296e-14,
+  "max_rv_err_m_s": 5.383043489190496e-07
+}
