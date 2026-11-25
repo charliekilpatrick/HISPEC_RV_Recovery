@@ -1,6 +1,6 @@
 {
   "template": "lte040.0-4.5-0.0a+0.0.BT-Settl.spec.7.h5",
-  "parent_mask": "/Users/ckilpatrick/Dropbox/scripts/python/cursor/HISPEC_DRP/hispecdrp/data/masks/lte040.0-4.5-0.0a+0.0.BT-Settl.spec.7.delta.mas",
+  "parent_mask": "HISPEC_DRP/hispecdrp/data/masks/lte040.0-4.5-0.0a+0.0.BT-Settl.spec.7.delta.mas",
   "inj_km_s": [
     0.0,
     1.0,
@@ -16,7 +16,7 @@
   ],
   "n_fine": 512,
   "parent_n_lines": 6857,
-  "rezero_mask": "/Users/ckilpatrick/Dropbox/scripts/python/cursor/HISPEC_DRP/test_data/rms_n_optimize/lte040.parent_iter_rezero.mas",
+  "rezero_mask": "HISPEC_DRP/test_data/rms_n_optimize/lte040.parent_iter_rezero.mas",
   "rezero_n_lines": 738,
   "rezero_meta": {
     "rezero_iters_used": 8,
