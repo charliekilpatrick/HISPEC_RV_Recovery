@@ -1,0 +1,21 @@
+{
+  "order": 139,
+  "template": "lte040.0-4.5-0.0a+0.0.BT-Settl.spec.7.h5",
+  "n_fine": 512,
+  "lam_rest_um": 1.0498980198867847,
+  "line_index": 409,
+  "n_injected": 41,
+  "injected_rv_min_m_s": -20000.0,
+  "injected_rv_max_m_s": 20000.0,
+  "injected_rv_step_m_s": 1000.0,
+  "bias_at_0_m_s": 0.568818388034925,
+  "max_abs_bias_m_s": 0.9818203501083644,
+  "max_abs_delta_m_s": 1.5506387381432893,
+  "rms_delta_m_s": 0.8820342342425094,
+  "ptp_delta_m_s": 1.8387782534730377,
+  "max_rv_err_m_s": 2.0000112781935743e-05,
+  "n_on_order": 41,
+  "rms_delta_on_order_m_s": 0.8820342342425094,
+  "max_abs_delta_on_order_m_s": 1.5506387381432893,
+  "ptp_delta_on_order_m_s": 1.8387782534730377
+}
