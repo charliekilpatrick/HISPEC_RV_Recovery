@@ -10,6 +10,7 @@ Document HISPEC ideal-spectrum RV recovery experiments.
 |------|----------------|
 | Single Gaussian line | `hispecdrp/simulations/gaussian_line_rv.py` |
 | Single template line | `hispecdrp/simulations/template_line_rv.py` |
+| Several lines on one order | `hispecdrp/simulations/template_order_lines_rv.py` |
 
 ## Template / instrument defaults for these pages
 

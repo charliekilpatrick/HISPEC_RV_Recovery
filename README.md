@@ -7,3 +7,4 @@ Static documentation of radial-velocity (RV) recovery tests performed with HISPE
 - [Overview](docs/00_overview.md)
 - [Single Gaussian Line](docs/01_gaussian_line.md)
 - [Single Template Line](docs/02_template_line.md)
+- [Several Lines on One Order](docs/03_template_order_lines.md)
