@@ -52,14 +52,14 @@ Delta is the bias at that RV minus the bias at 0 km/s. The bias at 0 km/s is
 The painted line at RV = 0. Flux is divided by the local continuum. The
 dotted line is the mask wavelength.
 
-![BT-Settl line on order 139](../assets/plots/template_line_profile.png)
+![BT-Settl line on order 139](../../assets/plots/template_line_profile.png)
 
 ## Recovered RV
 
 Recovered RV versus injected RV, and Delta in m/s. Every trial stays on the
 one-to-one line. The RMS of Delta is 0.88 m/s.
 
-![Single template line RV recovery](../assets/plots/template_line_rv_recovery.png)
+![Single template line RV recovery](../../assets/plots/template_line_rv_recovery.png)
 
 ## Code
 

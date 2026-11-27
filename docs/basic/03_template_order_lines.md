@@ -53,7 +53,7 @@ other. The median absolute pairwise correlation is 0.04, and the largest is
 
 ## Delta for each line
 
-![Delta for five lines on order 139](../assets/plots/template_order_lines_delta.png)
+![Delta for five lines on order 139](../../assets/plots/template_order_lines_delta.png)
 
 ## Code
 

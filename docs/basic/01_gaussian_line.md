@@ -54,7 +54,7 @@ Injected RV runs from -20 km/s to 20 km/s in steps of 1 km/s (41 trials).
 Simulated pixels at RV = 0 and the free-continuum Gaussian fit on those pixels.
 The largest flux residual is $1.1\times 10^{-16}$.
 
-![Simulated line and Gaussian fit](../assets/plots/gaussian_line_profile_fit.png)
+![Simulated line and Gaussian fit](../../assets/plots/gaussian_line_profile_fit.png)
 
 ## Recovered RV
 
@@ -63,7 +63,7 @@ Residuals away from zero in the lower panel are one last place of the fitted
 mean, and they fall within a few km/s of zero. The largest residual on this
 grid is $4.5\times 10^{-10}$ mm/s.
 
-![Gaussian line RV recovery](../assets/plots/gaussian_line_rv_recovery.png)
+![Gaussian line RV recovery](../../assets/plots/gaussian_line_rv_recovery.png)
 
 ## Code
 
